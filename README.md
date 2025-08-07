@@ -1,16 +1,51 @@
 ## Hi there 👋
 
-<!--
-**anshif-kinan/anshif-kinan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Mohammed Anshif </h1>
+<h3 align="center">Cybersecurity Researcher & Ethical Hacking Enthusiast</h3>
 
-Here are some ideas to get you started:
+- 🎓 Currently pursuing BCA from IGNOU  
+- 🛡 Studying Advanced Diploma in Cybersecurity at Offenso Hackers Academy  
+- 🧪 Building hands-on projects like AirSnoop – Wi-Fi Attack Detection Device  
+- 🔐 Learning practical hacking via OverTheWire, **PortSwigger Labs, and **Burp Suite
+- 🌐 Interested in AI Security, **Cloud Security, and **Digital Forensics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Skills
+
+- Cybersecurity Tools: Wireshark, Burp Suite, Nmap, Metasploit  
+- Languages: Python, Bash, HTML  
+- Platforms: Linux (Kali, Mint), Windows  
+- Tech Interests: Vulnerability Assessment, Penetration Testing, Malware Analysis
+
+---
+
+### 🧪 Projects
+
+| Project | Description | Tools |
+|--------|-------------|-------|
+| 🛰 AirSnoop | Wi-Fi attack detection device | ESP8266, Arduino IDE |
+| 🔓 PortSwigger Labs | Completed Web Security Academy labs | Burp Suite |
+| 🧱 Bandit Wargame | Practicing Linux and Bash hacking | OverTheWire |
+
+---
+
+### 📜 Certifications
+
+- [ ] CompTIA  (Planned)  
+- [ ] OSCP (Future Goal)
+- [ ] IBM - Cybersecurity Fundamentals
+- [ ] Cicso - Introduction to Cybersecurity
+
+---
+
+### 📫 How to Reach Me
+
+- 📧 Email: mohammedanshif714@gmail.com  
+- 💼 [LinkedIn](https://linkedin.com/in/mohammed-anshif-981b39333)  
+- 💻 [GitHub](https://github.com/anshif-kinan)
+- 📞 [phone](+918590305848)
+- 
+---
+
+
