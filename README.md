@@ -24,7 +24,6 @@
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| 🛰 AirSnoop | Wi-Fi attack detection device | ESP8266, Arduino IDE |
 | 🔓 PortSwigger Labs | Completed Web Security Academy labs | Burp Suite |
 | 🧱 Bandit Wargame | Practicing Linux and Bash hacking | OverTheWire |
 
