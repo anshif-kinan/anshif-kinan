@@ -39,7 +39,7 @@
 - LinkedIn: https://www.linkedin.com/in/mohammed-anshif-981b39333/  
 - 📧 Email: mohammedanshif714@gmail.com    
 - 💻 [GitHub](https://github.com/anshif-kinan)
-- 📞 [phone](+918590305848)
+- 
 - 
 ---
 
